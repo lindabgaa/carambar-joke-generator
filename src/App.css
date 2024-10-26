@@ -8,7 +8,7 @@ header {
   height: 40%;
   width: 100%;
   text-align: center;
-  background-color: var(--clr-cyan);
+  background-color: var(--clr-yellow);
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 calc(100% - 100px));
 
   display: flex;
@@ -21,7 +21,7 @@ h1 {
   margin-bottom: 2rem;
   font-size: var(--fs-xxlg);
   font-family: var(--ff-kablamo);
-  color: var(--clr-yellow);
+  color: var(--clr-pink);
 }
 
 section {
