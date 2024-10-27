@@ -5,8 +5,8 @@
 
 Ce projet est une interface simple proposant un générateur de blagues Carambar, développée avec **React**. Elle permet aux utilisateurs de découvrir des blagues aléatoires en un clic grâce à une **API versionnée**. L’API est entièrement documentée via **Swagger**. Les blagues sont stockées dans une base de données **SQLite**, assurant une expérience fluide et efficace.
 
-[Démo](https://lindabgaa.github.io/carambar-co-landing-page/)
-[Repo API](https://github.com/lindabgaa/api-blagues-carambar.git)
+[Démo](https://lindabgaa.github.io/carambar-co-landing-page/)  
+[Repo API](https://github.com/lindabgaa/api-blagues-carambar.git)  
 [Documentation API](https://blagues-carambar-api.onrender.com/api/v1/docs/)
 
 ## Technologies
