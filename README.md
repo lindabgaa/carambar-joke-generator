@@ -16,3 +16,8 @@ Ce projet est une interface simple proposant un générateur de blagues Carambar
 - **CSS** : Pour le style et la mise en page de l’application.
 
 ## Installation & Configuration
+
+- Clonez le dépôt : `git clone https://github.com/lindabgaa/carambar-co-landing-page.git`
+- Accédez au dossier du projet : `cd carambar-co-landing-page`
+- Installez les dépendances : `npm install`
+- Lancer le serveur de développement : `npm run dev`
