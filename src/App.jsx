@@ -9,7 +9,7 @@ function App() {
   const handleButtonClick = async () => {
     try {
       const response = await axios.get(
-        "https://blagues-carambar-api.onrender.com/api/v1/blagues/random"
+        "https://carambar-jokes-api.onrender.com/api/v1/jokes/random"
       );
 
       const jokeData = response.data;

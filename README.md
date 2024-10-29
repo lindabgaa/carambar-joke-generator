@@ -1,23 +1,25 @@
-# Carambar & Co Landing Page - Projet React
+# Carambar Joke Generator - React/Vite Project
 
-![Project Status](https://img.shields.io/badge/Project%20Status-Finished-green)
-[![CodeFactor](https://www.codefactor.io/repository/github/lindabgaa/carambar-co-landing-page/badge)](https://www.codefactor.io/repository/github/lindabgaa/carambar-co-landing-page)
+![Project Status](https://img.shields.io/badge/Project%20Status-Finished-green?style=flat-square)
+[![CodeFactor](https://www.codefactor.io/repository/github/lindabgaa/carambar-joke-generator/badge?style=flat-square)](https://www.codefactor.io/repository/github/lindabgaa/carambar-joke-generator)
 
-Ce projet est une interface simple proposant un générateur de blagues Carambar, développée avec **React**. Elle permet aux utilisateurs de découvrir des blagues aléatoires en un clic grâce à une **API versionnée**. L’API est entièrement documentée via **Swagger**. Les blagues sont stockées dans une base de données **SQLite**, assurant une expérience fluide et efficace.
+This project is a simple interface offering a Carambar joke generator developed with **React**. It allows users to discover random jokes with a single click through a **versioned API**. The API is fully documented using **Swagger**. The jokes are stored in a **SQLite** database, ensuring a smooth and efficient experience.
 
-[Démo](https://lindabgaa.github.io/carambar-co-landing-page/)  
-[Repo API](https://github.com/lindabgaa/api-blagues-carambar.git)  
-[Documentation API](https://blagues-carambar-api.onrender.com/api/v1/docs/)
+[Demo](https://lindabgaa.github.io/carambar-co-landing-page/)  
+[API Repo](https://github.com/lindabgaa/api-blagues-carambar.git)  
+[API Documentation](https://carambar-jokes-api.onrender.com/api/v1/docs/)
 
-## Technologies
+## Tech Stack
 
-- **React / Vite** : Utilisés pour construire l’interface utilisateur et faciliter le développement rapide.
-- **Axios** : Pour effectuer des requêtes HTTP et interagir avec l’API.
-- **CSS** : Pour le style et la mise en page de l’application.
+- **React** / **Vite**, **Axios**, **CSS**
 
 ## Installation & Configuration
 
-- Clonez le dépôt : `git clone https://github.com/lindabgaa/carambar-co-landing-page.git`
-- Accédez au dossier du projet : `cd carambar-co-landing-page`
-- Installez les dépendances : `npm install`
-- Lancer le serveur de développement : `npm run dev`
+- Clone the repository: `git clone https://github.com/lindabgaa/carambar-co-landing-page.git`
+- Navigate to the project folder: `cd carambar-co-landing-page`
+- Install the dependencies: `npm install`
+- Start the development server: `npm run dev`
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
