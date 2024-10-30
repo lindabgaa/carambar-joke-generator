@@ -5,9 +5,7 @@ import "./App.css";
 
 function App() {
   const [joke, setJoke] = useState(null);
-  const [errorMessage, setErrorMessage] = useState(
-    "Oups, impossible de récupérer une blague pour le moment. Réessaye plus tard !"
-  );
+  const [errorMessage, setErrorMessage] = useState(null);
 
   const handleButtonClick = async () => {
     setErrorMessage(null);
